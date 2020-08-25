@@ -2,8 +2,8 @@
   "name": "Ivan Tishchenko",
   "short_name": "Ivan Tishchenko",
   "lang": "en-us",
-  "theme_color": "#000000",
-  "background_color": "#000000",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
   "icons": [{
     "src": "/images/icon_hu690a39bdfdcd8b517ef6b7a8d4a4b855_1054806_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
