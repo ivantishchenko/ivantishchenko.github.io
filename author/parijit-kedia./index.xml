@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parijit Kedia. | Ivan Tishchenko</title>
+    <link>https://ivantishchenko.github.io/author/parijit-kedia./</link>
+      <atom:link href="https://ivantishchenko.github.io/author/parijit-kedia./index.xml" rel="self" type="application/rss+xml" />
+    <description>Parijit Kedia.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ivan Tishchenko</copyright>
+    <image>
+      <url>https://ivantishchenko.github.io/images/icon_hu690a39bdfdcd8b517ef6b7a8d4a4b855_1054806_512x512_fill_lanczos_center_2.png</url>
+      <title>Parijit Kedia.</title>
+      <link>https://ivantishchenko.github.io/author/parijit-kedia./</link>
+    </image>
+    
+    <item>
+      <title>Analytics platform for Instagram</title>
+      <link>https://ivantishchenko.github.io/project/is/</link>
+      <pubDate>Wed, 01 Aug 2018 16:56:32 +0200</pubDate>
+      <guid>https://ivantishchenko.github.io/project/is/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

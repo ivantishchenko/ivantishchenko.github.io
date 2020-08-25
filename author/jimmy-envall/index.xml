@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jimmy Envall | Ivan Tishchenko</title>
+    <link>https://ivantishchenko.github.io/author/jimmy-envall/</link>
+      <atom:link href="https://ivantishchenko.github.io/author/jimmy-envall/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jimmy Envall</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ivan Tishchenko</copyright><lastBuildDate>Fri, 24 Aug 2018 16:47:45 +0200</lastBuildDate>
+    <image>
+      <url>https://ivantishchenko.github.io/images/icon_hu690a39bdfdcd8b517ef6b7a8d4a4b855_1054806_512x512_fill_lanczos_center_2.png</url>
+      <title>Jimmy Envall</title>
+      <link>https://ivantishchenko.github.io/author/jimmy-envall/</link>
+    </image>
+    
+    <item>
+      <title>Semantic segmentation of satellite images</title>
+      <link>https://ivantishchenko.github.io/project/cil/</link>
+      <pubDate>Fri, 24 Aug 2018 16:47:45 +0200</pubDate>
+      <guid>https://ivantishchenko.github.io/project/cil/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

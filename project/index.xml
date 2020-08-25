@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ivan Tishchenko</title>
-    <link>https://ivantishchenko.github.io/</link>
-      <atom:link href="https://ivantishchenko.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ivan Tishchenko</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ivan Tishchenko</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <title>Projects | Ivan Tishchenko</title>
+    <link>https://ivantishchenko.github.io/project/</link>
+      <atom:link href="https://ivantishchenko.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ivan Tishchenko</copyright><lastBuildDate>Sat, 25 Aug 2018 16:27:35 +0200</lastBuildDate>
     <image>
       <url>https://ivantishchenko.github.io/images/icon_hu690a39bdfdcd8b517ef6b7a8d4a4b855_1054806_512x512_fill_lanczos_center_2.png</url>
-      <title>Ivan Tishchenko</title>
-      <link>https://ivantishchenko.github.io/</link>
+      <title>Projects</title>
+      <link>https://ivantishchenko.github.io/project/</link>
     </image>
-    
-    <item>
-      <title>Self-Supervised Learning of Non-Rigid Residual Flow and Ego-Motion in Dynamic 3D Scenes</title>
-      <link>https://ivantishchenko.github.io/publication/tishchenko-2020-self/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ivantishchenko.github.io/publication/tishchenko-2020-self/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Hand Pose Estimation with CNNs</title>

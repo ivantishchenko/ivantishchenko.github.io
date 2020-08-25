@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Co-authored with Andreas Allenspach | Ivan Tishchenko</title>
+    <link>https://ivantishchenko.github.io/author/co-authored-with-andreas-allenspach/</link>
+      <atom:link href="https://ivantishchenko.github.io/author/co-authored-with-andreas-allenspach/index.xml" rel="self" type="application/rss+xml" />
+    <description>Co-authored with Andreas Allenspach</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ivan Tishchenko</copyright><lastBuildDate>Wed, 01 Aug 2018 16:56:32 +0200</lastBuildDate>
+    <image>
+      <url>https://ivantishchenko.github.io/images/icon_hu690a39bdfdcd8b517ef6b7a8d4a4b855_1054806_512x512_fill_lanczos_center_2.png</url>
+      <title>Co-authored with Andreas Allenspach</title>
+      <link>https://ivantishchenko.github.io/author/co-authored-with-andreas-allenspach/</link>
+    </image>
+    
+    <item>
+      <title>Analytics platform for Instagram</title>
+      <link>https://ivantishchenko.github.io/project/is/</link>
+      <pubDate>Wed, 01 Aug 2018 16:56:32 +0200</pubDate>
+      <guid>https://ivantishchenko.github.io/project/is/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
