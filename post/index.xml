@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Ivan Tishchenko</title>
-    <link>https://ivantishchenko.github.io/post/</link>
-      <atom:link href="https://ivantishchenko.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tishchenko.me/post/</link>
+      <atom:link href="https://tishchenko.me/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ivan Tishchenko</copyright>
     <image>
-      <url>https://ivantishchenko.github.io/images/icon_hu690a39bdfdcd8b517ef6b7a8d4a4b855_1054806_512x512_fill_lanczos_center_2.png</url>
+      <url>https://tishchenko.me/images/icon_hu690a39bdfdcd8b517ef6b7a8d4a4b855_1054806_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>https://ivantishchenko.github.io/post/</link>
+      <link>https://tishchenko.me/post/</link>
     </image>
     
   </channel>

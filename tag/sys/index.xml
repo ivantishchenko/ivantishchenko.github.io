@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sys | Ivan Tishchenko</title>
-    <link>https://ivantishchenko.github.io/tag/sys/</link>
-      <atom:link href="https://ivantishchenko.github.io/tag/sys/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tishchenko.me/tag/sys/</link>
+      <atom:link href="https://tishchenko.me/tag/sys/index.xml" rel="self" type="application/rss+xml" />
     <description>sys</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ivan Tishchenko</copyright><lastBuildDate>Wed, 01 Aug 2018 16:56:32 +0200</lastBuildDate>
     <image>
-      <url>https://ivantishchenko.github.io/images/icon_hu690a39bdfdcd8b517ef6b7a8d4a4b855_1054806_512x512_fill_lanczos_center_2.png</url>
+      <url>https://tishchenko.me/images/icon_hu690a39bdfdcd8b517ef6b7a8d4a4b855_1054806_512x512_fill_lanczos_center_2.png</url>
       <title>sys</title>
-      <link>https://ivantishchenko.github.io/tag/sys/</link>
+      <link>https://tishchenko.me/tag/sys/</link>
     </image>
     
     <item>
       <title>Analytics platform for Instagram</title>
-      <link>https://ivantishchenko.github.io/project/is/</link>
+      <link>https://tishchenko.me/project/is/</link>
       <pubDate>Wed, 01 Aug 2018 16:56:32 +0200</pubDate>
-      <guid>https://ivantishchenko.github.io/project/is/</guid>
+      <guid>https://tishchenko.me/project/is/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Middleware for a cloud distributed system</title>
-      <link>https://ivantishchenko.github.io/project/asl/</link>
+      <link>https://tishchenko.me/project/asl/</link>
       <pubDate>Mon, 25 Sep 2017 16:02:16 +0200</pubDate>
-      <guid>https://ivantishchenko.github.io/project/asl/</guid>
+      <guid>https://tishchenko.me/project/asl/</guid>
       <description></description>
     </item>
     

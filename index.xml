@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ivan Tishchenko</title>
-    <link>https://ivantishchenko.github.io/</link>
-      <atom:link href="https://ivantishchenko.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tishchenko.me/</link>
+      <atom:link href="https://tishchenko.me/index.xml" rel="self" type="application/rss+xml" />
     <description>Ivan Tishchenko</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ivan Tishchenko</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ivantishchenko.github.io/images/icon_hu690a39bdfdcd8b517ef6b7a8d4a4b855_1054806_512x512_fill_lanczos_center_2.png</url>
+      <url>https://tishchenko.me/images/icon_hu690a39bdfdcd8b517ef6b7a8d4a4b855_1054806_512x512_fill_lanczos_center_2.png</url>
       <title>Ivan Tishchenko</title>
-      <link>https://ivantishchenko.github.io/</link>
+      <link>https://tishchenko.me/</link>
     </image>
     
     <item>
       <title>Self-Supervised Learning of Non-Rigid Residual Flow and Ego-Motion in Dynamic 3D Scenes</title>
-      <link>https://ivantishchenko.github.io/publication/tishchenko-2020-self/</link>
+      <link>https://tishchenko.me/publication/tishchenko-2020-self/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ivantishchenko.github.io/publication/tishchenko-2020-self/</guid>
+      <guid>https://tishchenko.me/publication/tishchenko-2020-self/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hand Pose Estimation with CNNs</title>
-      <link>https://ivantishchenko.github.io/project/mp/</link>
+      <link>https://tishchenko.me/project/mp/</link>
       <pubDate>Sat, 25 Aug 2018 16:27:35 +0200</pubDate>
-      <guid>https://ivantishchenko.github.io/project/mp/</guid>
+      <guid>https://tishchenko.me/project/mp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantic segmentation of satellite images</title>
-      <link>https://ivantishchenko.github.io/project/cil/</link>
+      <link>https://tishchenko.me/project/cil/</link>
       <pubDate>Fri, 24 Aug 2018 16:47:45 +0200</pubDate>
-      <guid>https://ivantishchenko.github.io/project/cil/</guid>
+      <guid>https://tishchenko.me/project/cil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analytics platform for Instagram</title>
-      <link>https://ivantishchenko.github.io/project/is/</link>
+      <link>https://tishchenko.me/project/is/</link>
       <pubDate>Wed, 01 Aug 2018 16:56:32 +0200</pubDate>
-      <guid>https://ivantishchenko.github.io/project/is/</guid>
+      <guid>https://tishchenko.me/project/is/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Middleware for a cloud distributed system</title>
-      <link>https://ivantishchenko.github.io/project/asl/</link>
+      <link>https://tishchenko.me/project/asl/</link>
       <pubDate>Mon, 25 Sep 2017 16:02:16 +0200</pubDate>
-      <guid>https://ivantishchenko.github.io/project/asl/</guid>
+      <guid>https://tishchenko.me/project/asl/</guid>
       <description></description>
     </item>
     
