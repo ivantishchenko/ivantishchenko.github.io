@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Ivan Tishchenko</title>
-    <link>https://tishchenko.me/publication/</link>
-      <atom:link href="https://tishchenko.me/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Martin R. Oswald | Ivan Tishchenko</title>
+    <link>https://tishchenko.me/author/martin-r.-oswald/</link>
+      <atom:link href="https://tishchenko.me/author/martin-r.-oswald/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin R. Oswald</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ivan Tishchenko</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tishchenko.me/images/icon_hu690a39bdfdcd8b517ef6b7a8d4a4b855_1054806_512x512_fill_lanczos_center_2.png</url>
-      <title>Publications</title>
-      <link>https://tishchenko.me/publication/</link>
+      <title>Martin R. Oswald</title>
+      <link>https://tishchenko.me/author/martin-r.-oswald/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://tishchenko.me/publication/tishchenko-2020-selfflow/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://tishchenko.me/publication/tishchenko-2020-selfflow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-Supervised Learning of Non-Rigid Residual Flow and Ego-Motion in Dynamic 3D Scenes</title>
-      <link>https://tishchenko.me/publication/tishchenko-2020-self/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://tishchenko.me/publication/tishchenko-2020-self/</guid>
       <description></description>
     </item>
     
