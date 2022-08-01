@@ -1,154 +1,92 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://tishchenko.me/publication-type/2/</loc>
     <lastmod>2020-09-25T19:51:04+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/publication-type/7/</loc>
     <lastmod>2020-08-25T13:10:55+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/authors/</loc>
     <lastmod>2020-09-25T19:51:04+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/author/ivan-tishchenko/</loc>
     <lastmod>2020-09-25T19:51:04+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/</loc>
     <lastmod>2020-09-25T19:51:04+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/author/marc-pollefeys/</loc>
     <lastmod>2020-09-25T19:51:04+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/author/martin-r.-oswald/</loc>
     <lastmod>2020-09-25T19:51:04+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/publication_types/</loc>
     <lastmod>2020-09-25T19:51:04+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/publication/</loc>
     <lastmod>2020-09-25T19:51:04+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/author/sandro-lombardi/</loc>
     <lastmod>2020-09-25T19:51:04+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/publication/tishchenko-2020-selfflow/</loc>
     <lastmod>2020-09-25T19:51:04+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/publication/tishchenko-2020-self/</loc>
     <lastmod>2020-08-25T13:10:55+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/author/supervised-by-sandro-lombardi-dr.-martin-oswald-prof.-marc-pollefeys/</loc>
     <lastmod>2020-08-25T13:10:55+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/tag/cv/</loc>
     <lastmod>2018-08-25T16:27:35+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/project/mp/</loc>
     <lastmod>2018-08-25T16:27:35+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/tag/ml/</loc>
     <lastmod>2018-08-25T16:27:35+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/project/</loc>
     <lastmod>2018-08-25T16:27:35+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/tags/</loc>
     <lastmod>2018-08-25T16:27:35+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/author/co-authored-with-mickey-vanska./</loc>
     <lastmod>2018-08-24T16:47:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/author/jimmy-envall/</loc>
     <lastmod>2018-08-24T16:47:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/project/cil/</loc>
     <lastmod>2018-08-24T16:47:45+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/project/is/</loc>
     <lastmod>2018-08-01T16:56:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/author/co-authored-with-andreas-allenspach/</loc>
     <lastmod>2018-08-01T16:56:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/tag/sys/</loc>
     <lastmod>2018-08-01T16:56:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/project/asl/</loc>
     <lastmod>2017-09-25T16:02:16+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/author/ivan-tishchenko/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/author/jonathan-granskog./</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/author/parijit-kedia./</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tishchenko.me/talk/</loc>
   </url>
-  
 </urlset>
